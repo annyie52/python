@@ -560,7 +560,7 @@ plt.show()
 ```
 outlier_marker = {'marker': 'D', 'markerfacecolor': 'r'}
 
-plt.boxplot(data, flierprops=outlier_marker) # flierprops : outlier 표시용 점들
+plt.boxplot(data, flierprops=outlier_marker) # flierprops : outlier 표시용 점
 plt.show()
 ```
 
